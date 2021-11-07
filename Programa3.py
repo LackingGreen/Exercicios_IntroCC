@@ -2,11 +2,12 @@
 
 num = int(input("Insira um número inteiro.\n"))
 mult = 1
-tab = "{} * {} = {}"
+tab = "{} * {}\t = {}"
 
+print()
 for x in range(1,11):
     res = num * mult
     print(tab.format(num, mult, res))
     mult += 1
 
-input("Pressione ENTER para encerrar.")
+input("\nPressione ENTER para encerrar.")

@@ -4,12 +4,12 @@ import math
 x = float(input("Digite um número.\n"))
 
 dobro = x*2
-cubo = x*x*x
+cubo = x**3
 if x >= 0:
     raiz = math.sqrt(x)
 else:
     raiz = "imaginária, portanto não pertence aos números reais"
+txt = "\nO dobro deste número é {}\nEste número elevado à terceira potência é {}\nA raíz quadrada desse número é {}"
 
-txt = "O dobro deste número é {}\nEste número elevado à terceira potência é {}\nA raíz quadrada desse número é {}\n"
 print(txt.format(dobro, cubo, raiz))
-input("Pressione ENTER para encerrar.")
+input("\nPressione ENTER para encerrar.")
