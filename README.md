@@ -1,8 +1,10 @@
 # Exercicios_IntroCC
- Exercícios de prática sobre Git e GitHub, aula de Introdução à Ciência da Computação
+Exercícios de prática sobre Git e GitHub, aula de Introdução à Ciência da Computação
 
-•Criar um repositório local e remoto
-•Solucionar os exercícios em python e publicá-los no repositório remoto.
+*Aluno: Fernando Gabriel Fucks Pedro
+
+*Criar um repositório local e remoto
+*Solucionar os exercícios em python e publicá-los no repositório remoto.
 
 –Programa1: Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e o seu antecessor.
 
